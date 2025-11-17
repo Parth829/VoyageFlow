@@ -2,15 +2,6 @@
 
 A modern, fully responsive travel booking simulation website built following Woox Travel design specifications.
 
-## 🎨 Design Inspiration
-
-This project follows the **Woox Travel** design specification with:
-- **Primary Color**: #00bcd4 (Cyan/Teal)
-- **Secondary Color**: #007b8a
-- **Typography**: Open Sans (Google Fonts)
-- **Framework**: Bootstrap 5.2.0
-- Clean, professional, and modern layout
-
 ## 📁 Project Structure
 
 ```
@@ -126,25 +117,6 @@ Web tech Project/
 5. **Review**: Rate your experience and leave feedback
 6. **Confirm**: View your booking summary
 
-## 🎨 Design Elements
-
-### Colors
-- Primary: `#00bcd4` (Cyan/Teal)
-- Secondary: `#007b8a` (Darker Teal)
-- Background: `#ffffff` (White)
-- Text: `#333333` (Dark Gray)
-- Accent: `#f5f5f5` (Light Gray)
-
-### Typography
-- Font Family: Open Sans
-- Headings: Bold, 48px (H1) to 14px (H6)
-- Body: Regular, 16px
-
-### Buttons
-- Primary: Cyan background, white text, uppercase
-- Hover: Darker cyan (#007b8a)
-- Padding: 12px 30px
-- Border Radius: 4px
 
 ## 🔧 Technical Details
 
@@ -196,5 +168,4 @@ To modify the project:
 
 ---
 
-**Built with ❤️ following Woox Travel design specifications**
 
